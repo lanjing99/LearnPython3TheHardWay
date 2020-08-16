@@ -9,3 +9,8 @@ for number in numbers:
 
 for i in range(1, 5):
     print(f"i is {i}")
+
+sum = 0
+for i in range(1, 101):
+    sum += i
+print(f"sun is {sum}")
