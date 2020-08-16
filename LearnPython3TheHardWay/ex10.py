@@ -1,0 +1,1 @@
+print("\t a cat \v a dog \v a pig")
